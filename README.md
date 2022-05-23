@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bill2030
-- 👀 I’m interested in becoming Full Stack Developer
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning Html, Css, Javascript, React, Node Js
 - 💞️ I’m looking to collaborate on my Github Profile
 - 📫 How to reach me benardbill@yahoo.co.uk
