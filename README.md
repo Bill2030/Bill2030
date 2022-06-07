@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bill2030
-- 👀 I’m a Full Stack Developer
-- 🌱 Languages: HTML, CSS, JAVA SCRIPT,SQL, PHYTON, NODE JS, REACT, 
+- 👀 I’m an aspiring Full Stack Developer
+- 🌱 Currently Learning the following Languages online: HTML, CSS, JAVA SCRIPT,SQL, PHYTON, NODE JS, REACT, 
 - 💞️ I’m looking to collaborate on my Github Profile
 - 📫 How to reach me benardbill@yahoo.co.uk
 
