@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bill2030
-- 👀 I’m a Full Stack Developer
+- 👀 I’m a Full Pasionate Developer
 - 🌱  Languages online: HTML, CSS, PHP,SQL, LARAVEL, NODE JS, REACT, 
 - 💞️ I’m looking to collaborate on my Github Profile
 - 📫 How to reach me benardbill@yahoo.co.uk
