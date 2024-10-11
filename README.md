@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bill
 - 👀 I’m a Full Pasionate Developer
-- 🌱  Languages online: HTML, CSS, PHP,SQL,Mongo Db,Oracle,Mysql, LARAVEL, NODE JS, REACT, 
+- 🌱  Languages online: HTML, CSS, PHP,SQL,Mongo Db,Oracle,Mysql, LARAVEL, NODE JS 
 - 💞️ I’m looking to collaborate on my Github Profile
 - 📫 How to reach me benardbill@yahoo.co.uk
 
